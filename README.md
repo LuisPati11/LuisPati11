@@ -1,5 +1,5 @@
 ## Hola buenas, soy Luis Patiño👋
-Actualmente estudiante de último curso de ingeniaería informática en la universidad de Vilna 📚
+Actualmente estudiante de último curso de ingeniería informática en la universidad de Vilna 📚
 
 Aquí puedes encontrar mis repositorios, un saludo.
 

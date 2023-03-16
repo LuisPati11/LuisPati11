@@ -5,6 +5,7 @@ Aquí puedes encontrar mis repositorios, un saludo.
 
 ## Tecnologías
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 
 <!--
 **LuisPati11/LuisPati11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

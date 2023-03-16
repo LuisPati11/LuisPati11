@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hola buenas, soy Luis Patiño
+Actualmente estudiante de último curso de ingeniaería informatica en la universidad de Vilna.
+
+Aquí puedes encontrar mis repositorios, un saludo
 
 <!--
 **LuisPati11/LuisPati11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

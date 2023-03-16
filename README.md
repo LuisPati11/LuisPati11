@@ -1,9 +1,9 @@
-### Hola buenas, soy Luis Patiño👋
+## Hola buenas, soy Luis Patiño👋
 Actualmente estudiante de último curso de ingeniaería informática en la universidad de Vilna 📚
 
 Aquí puedes encontrar mis repositorios, un saludo.
 
-# Tecnologías
+## Tecnologías
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 
 <!--

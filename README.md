@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola a todos, soy Luis Patiño 👋 <br><br>
-Actualmente me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania 📚 <br>
-Aquí pueden encontrar mis últimos proyectos, espero les gusten.
+Actualmente me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania 📚 <br><br>
+Aquí pueden encontrar mis últimos proyectos, espero les gusten 🤍
 
 
 ## 🌐 Social:

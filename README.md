@@ -1,5 +1,6 @@
 # 💫 About Me:
-Me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania. <br>
+Hola a todos, soy Luis Patiño. <br><br>
+Actualmente me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania. <br>
 Información sobre mí:
 
 

@@ -1,6 +1,6 @@
 # 💫 About Me:
 Me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania. <br>
-Aquí puedes encontrar mis distintos proyectos
+Aquí puedes encontrar mis distintos proyectos:
 
 
 ## 🌐 Social:

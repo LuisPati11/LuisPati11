@@ -2,7 +2,7 @@
 Hola a todos, soy Luis Patiño 👋 <br><br>
 Actualmente me encuentro cursando mi último año de ingeniería informática en la Vilnius University de Lituania 📚 <br><br>
 Aquí pueden encontrar mis últimos proyectos, espero les gusten 🤍
-
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="25%">
 </div>

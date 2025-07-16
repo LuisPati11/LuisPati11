@@ -9,8 +9,6 @@
 
 ## 🧠 Sobre mí
 
-## 🧠 Sobre mí
-
 - ⚙️ Full stack developer con experiencia centrada en **Angular**, **Django** y **Django REST Framework**.
 - 💼 Actualmente desarrollo software en una empresa del sector de la **ciberseguridad** llamada **Zepo** 🔐, donde colaboro en la creación de aplicaciones web robustas para la gestión y prevención de riesgos digitales.
 - 🛠️ Mi trabajo abarca tanto frontend como backend, construyendo funcionalidades completas, mantenibles y orientadas a producto.

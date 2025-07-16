@@ -38,6 +38,6 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/loop-kbUq8z1MEYQ7u" width="300" alt="Animación de BB-8" />
+  <img src="https://media.giphy.com/media/kbUq8z1MEYQ7u/giphy.gif" width="300" alt="Animación de BB-8 / BB-8 Animation" />
 </p>
 

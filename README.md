@@ -1,9 +1,45 @@
-# 💫 Sobre mi:
-Hola a todos, soy Luis Patiño 👋<br><br>Actualmente full stack developer en Zepo 🔒<br><br>Aquí pueden encontrar mis últimos proyectos, espero les gusten 🤍<br><br>
+<h1 align="center">¡Hola, soy Luis Patiño! 👋</h1>
+
+<p align="center">
+  <strong>Full Stack Developer</strong> con enfoque en el desarrollo completo de aplicaciones web. <br>
+  Me apasiona crear productos funcionales, mantenerme aprendiendo y mejorar cada día como profesional.
+</p>
+
+---
+
+## 🧠 Sobre mí
+
+## 🧠 Sobre mí
+
+- ⚙️ Full stack developer con experiencia centrada en **Angular**, **Django** y **Django REST Framework**.
+- 💼 Actualmente desarrollo software en una empresa del sector de la **ciberseguridad** llamada **Zepo** 🔐, donde colaboro en la creación de aplicaciones web robustas para la gestión y prevención de riesgos digitales.
+- 🛠️ Mi trabajo abarca tanto frontend como backend, construyendo funcionalidades completas, mantenibles y orientadas a producto.
+- 📚 Siempre en búsqueda de nuevas tecnologías y buenas prácticas.
+- 🎮 Amante de los videojuegos, el cine y los proyectos personales.
+- 🚀 Aprendiendo constantemente.
 
 
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
+## 🛠️ Tech Stack
 
-# 💻 Tecnologías:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,django,ts,js,python,html,css,aws,tailwind,vue,java,mysql,postgres,mongodb,docker,linux,git,github,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPati11&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+## 📫 ¿Conectamos?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-pati" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Patiño-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://giphy.com/gifs/loop-kbUq8z1MEYQ7u" width="300" alt="Animación de BB-8" />
+</p>
+

@@ -1,43 +1,55 @@
-<h1 align="center">¡Hola, soy Luis Patiño! 👋</h1>
+<h1 align="center">Luis Patiño</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> con enfoque en el desarrollo completo de aplicaciones web. <br>
-  Me apasiona crear productos funcionales, mantenerme aprendiendo y mejorar cada día como profesional.
+  <strong>Full Stack Engineer</strong><br>
+  Building AI-driven systems for real-world security problems
 </p>
 
 ---
 
-## 🧠 Sobre mí
+## About
 
-- ⚙️ Full stack developer con experiencia centrada en **Angular**, **Django** y **Django REST Framework**.
-- 💼 Actualmente desarrollo software en una empresa del sector de la **ciberseguridad** llamada **Zepo** 🔐, donde colaboro en la creación de aplicaciones web robustas para la gestión y prevención de riesgos digitales.
-- 🛠️ Mi trabajo abarca tanto frontend como backend, construyendo funcionalidades completas, mantenibles y orientadas a producto.
-- 📚 Siempre en búsqueda de nuevas tecnologías y buenas prácticas.
-- 🎮 Amante de los videojuegos, el cine y los proyectos personales.
-- 🚀 Aprendiendo constantemente.
+Full Stack Engineer with 3+ years of experience building scalable web applications in cybersecurity environments.
 
+Currently working at **Zepo**, contributing to the development of a SaaS platform focused on human risk analysis and security awareness. Experienced across both frontend and backend systems, with a strong focus on performance, clean architecture and real-world impact.
 
-## 🛠️ Tech Stack
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,django,ts,js,python,html,css,aws,tailwind,vue,java,mysql,postgres,mongodb,docker,linux,git,github,vscode" />
-</p>
+## Experience
 
-## 📊 GitHub Stats
+- Building and maintaining full stack features using **Angular** and **Django / Django REST Framework**
+- Developing modern frontend architectures using **Angular Signals, OnPush and performance best practices**
+- Designing and consuming **REST APIs** for scalable systems
+- Working with **data-heavy applications and dashboards**
+- Contributing to **architecture, performance and scalability improvements**
+- Integrating external systems such as **Active Directory, Google and Outlook**
+- Leveraging **AI-assisted development tools (Claude Code, Codex)** to improve productivity and code quality
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisPati11&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
-</p>
+---
 
-## 📫 ¿Conectamos?
+## Tech
+
+**Frontend**  
+Angular (Signals, OnPush), TypeScript, JavaScript, Astro  
+
+**Backend**  
+Python (Django, Django REST Framework), Node.js  
+
+**Cloud & DevOps**  
+AWS (Lambda, ECS, EC2, RDS), Docker  
+
+**Data**  
+PostgreSQL, MongoDB, SQL  
+
+**Other**  
+REST APIs, scalable architecture, performance optimization, AI-assisted development  
+
+---
+
+## Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-pati" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Patiño-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/kbUq8z1MEYQ7u/giphy.gif" width="300" alt="Animación de BB-8 / BB-8 Animation" />
-</p>
-

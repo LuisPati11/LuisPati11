@@ -9,7 +9,7 @@
 
 ## About
 
-Full Stack Engineer with 3+ years of experience building scalable web applications in cybersecurity environments.
+Full Stack Engineer with 5+ years of experience building scalable web applications in cybersecurity environments.
 
 Currently working at **Zepo**, contributing to the development of a SaaS platform focused on human risk analysis and security awareness. Experienced across both frontend and backend systems, with a strong focus on performance, clean architecture and real-world impact.
 
